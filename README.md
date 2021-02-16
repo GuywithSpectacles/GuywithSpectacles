@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aqeel Ahmad.
+- 👋 Hi, I’m Aqeel Ahmad and i just graduated from college (major: CS).
 - 👀 I’m interested in Python, A.I, M.L, CV, BioTech.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on python projects.
